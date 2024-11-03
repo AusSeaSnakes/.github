@@ -10,8 +10,11 @@ Aus Sea Snakes are a group of coastal scientists and engineers across Australasi
 - [Getting Started](#getting-started)
 - [Learning Goals](#learning-goals)
 - [Getting Help](#getting-help)
-- [Repositories](#repositories)
 - [How to Contribute](#how-to-contribute)
+- [Prerequisites](#prerequisites)
+- [Code of Conduct](#code-of-conduct)
+  
+
 - [Community](#community)
 - [License](#license)
 
@@ -33,28 +36,34 @@ Our goal is to create a supportive environment for:
 - Sharing best practices and code snippets
 - Collaborating on interesting problems and challenges
 
-## Code of Conduct
-
-Please read our [Code of Conduct](CODE_OF_CONDUCT.md). We strive to make this a welcoming and friendly place for everyone.
-
 ## Getting Help
 
 If you have questions about this group or any of the repositories, feel free to reach out in the Discussions tab or open an issue in the relevant repository.
 
-Happy coding!
-
+## How to Contribute
+We encourage everyone to contribute! Please refer to our Contributing Guidelines for more details.
 
 ## Prerequisites
 
 - **Python**: Install Python 3.x from the [official website](https://www.python.org/downloads/)
 - **GitHub Account**: If you don't have one, [sign up here](https://github.com/join)
 
+## Code of Conduct
 
-## How to Contribute
-We encourage everyone to contribute! Please refer to our Contributing Guidelines for more details.
+Please read our [Code of Conduct](CODE_OF_CONDUCT.md). We strive to make this a welcoming and friendly place for everyone.
 
 ## Community
 Join our Discord Server or Slack Workspace to engage with other members, ask questions, and stay updated with the latest activities.
 
 ## License
 This project is licensed under the MIT License.
+
+Happy coding!
+
+---
+
+
+
+
+
+
