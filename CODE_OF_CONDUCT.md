@@ -17,13 +17,9 @@ Examples of unacceptable behavior:
 - Public or private harassment.
 - Publishing others' private information, such as a physical or electronic address, without permission.
 
-## Enforcement
-
-Community leaders are responsible for clarifying and enforcing standards. Anyone who violates the code of conduct may face consequences, including removal from the organization.
-
 ## Reporting Issues
 
-If you see or experience behavior that violates this Code of Conduct, please reach out to one of the organization leaders. All reports will be handled confidentially.
+If you see or experience behavior that violates this Code of Conduct, please reach out. All reports will be handled confidentially.
 
 ---
 
