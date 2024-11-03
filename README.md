@@ -56,7 +56,7 @@ Please read our [Code of Conduct](CODE_OF_CONDUCT.md). We strive to make this a 
 Join our Discord Server or Slack Workspace to engage with other members, ask questions, and stay updated with the latest activities.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE.md).
 
 Happy coding!
 
