@@ -8,6 +8,7 @@ Aus Sea Snakes are a group of coastal scientists and engineers across Australasi
 
 - [About](#about)
 - [Getting Started](#getting-started)
+- [Learning Goals](#learning-goals)
 - [Repositories](#repositories)
 - [How to Contribute](#how-to-contribute)
 - [Community](#community)
