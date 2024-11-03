@@ -1,6 +1,6 @@
-# Contributing to Python Learning Hub
+# Contributing to Aus Sea Snakes
 
-Thank you for your interest in contributing to the Python Learning Hub! We’re excited to learn with you and grow our knowledge together. To ensure smooth collaboration, please follow these guidelines:
+Thank you for your interest in contributing to the Aus Sea Snakes python learning hub! We’re excited to learn with you and grow our knowledge together. To ensure smooth collaboration, please follow these guidelines:
 
 ## How to Contribute
 
@@ -13,10 +13,7 @@ Thank you for your interest in contributing to the Python Learning Hub! We’re 
 
 ## Guidelines
 
-- **Code Style**: Please follow PEP 8 coding standards.
 - **Documentation**: Comment your code and include explanations in Markdown or Jupyter notebooks.
-- **Review Process**: Once you submit a pull request, other members or maintainers will review your changes.
-- **Respect Deadlines**: For collaborative projects or challenges, try to meet any agreed-upon timelines.
 
 ## Issues
 
