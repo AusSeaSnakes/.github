@@ -23,6 +23,9 @@ Our goal is to create a supportive environment for:
 - Sharing best practices and code snippets
 - Collaborating on interesting problems and challenges
 
+This community is aimed at PhD students and young professionals across Australia, New Zealand and Pacific Islands. It was conceived at the [AusYCSEC](https://www.ausycsec.com.au/) conference in 2024.
+There exists a larger, more established community [SEA-PY](https://pyoceans.github.io/sea-py/) which may be more appropriate for some users.
+
 ## Getting Started
 
 Python is a coding language for scientific programming - a great tool for coastal scientists and engineers to analyse metocean data, create informative graphics and build functions for improved workflows.
