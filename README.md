@@ -66,14 +66,9 @@ This project is licensed under the [MIT License](LICENSE.md).
 
 ## Code setup
 
-See Code Setup folder for example Python environment setups used by Aus Sea Snakes members.
+See [Code Setup folder](https://github.com/AusSeaSnakes/.github/tree/main/PythonSetup) for example Python environment setups used by Aus Sea Snakes members.
 
 ---
-
-Happy coding!
-
----
-
 
 
 
