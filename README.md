@@ -2,7 +2,7 @@
 
 Welcome to the **Aus Sea Snakes**! 🎉
 
-Aus Sea Snakes are a group of coastal scientists and engineers across Australasia who share Python code, learn together and enhance their programming skills through shared experiences.
+Aus Sea Snakes are a group of coastal scientists and engineers across Australasia who share Python code to learn together and enhance their programming skills.
 
 ## Table of Contents
 
