@@ -64,10 +64,6 @@ Please read our [Code of Conduct](CODE_OF_CONDUCT.md). We strive to make this a 
 ## License
 This project is licensed under the [MIT License](LICENSE.md).
 
-## Code setup
-
-
-
 ---
 
 
